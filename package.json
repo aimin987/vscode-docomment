@@ -222,7 +222,8 @@
     },
     "activationEvents": [
         "onLanguage:csharp",
-        "onLanguage:aspnetcorerazor"
+        "onLanguage:aspnetcorerazor",
+        "onLanguage:dart"
     ],
     "keywords": [
         "XML Documentation Comments",

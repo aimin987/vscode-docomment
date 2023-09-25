@@ -104,7 +104,7 @@ export class DocommentDomain implements IDocommentDomain {
     }
 
     /* @implements */
-    public WriteDocomment(code: string, codeType: CodeType, docommnet: string): void {
+    public WriteDocomment(code: string, codeType: CodeType, docomment: string): void {
         // NOP
     }
 
